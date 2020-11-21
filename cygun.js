@@ -1,6 +1,5 @@
 UI.AddSubTab(["Rage", "SUBTAB_MGR"], "cygan")
 UI.AddCheckbox(["Rage", "cygan", "cygan"], "cygan")
-UI.AddTextbox(["Rage", "cygan", "cygan"], "cygun")
 Local.SetClanTag("cygun.com");
 
 function main() {
